@@ -3,8 +3,7 @@ def print_params(a=1, b='string', c=True):
 
 
 print_params()
-print_params(1, 'string')
-print_params
+print_params(a=1, c=True)
 print_params(b=25)
 print_params(c=[1, 2, 3])
 
